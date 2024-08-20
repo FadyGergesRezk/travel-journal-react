@@ -1,12 +1,34 @@
-<<<<<<< HEAD
-# React + Vite
+# Travel Destinations React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React project initialized with Vite. The purpose of this project is to practice passing props in React and creating reusable components by displaying various travel destinations.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# travel-journal-react
->>>>>>> 433d91064f9bb3d43b9af49e4ddd8e710b7e792f
+- Display a list of travel destinations.
+- Use of reusable components.
+- Practice passing props in React.
+
+## Setup
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone <repository-url>
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd travel-destinations
+   ```
+3. Install the dependencies:
+   ```sh
+   npm install
+   ```
+
+## Running the Project
+
+To run the project locally, use the following command:
+
+```sh
+npm run dev
+```
